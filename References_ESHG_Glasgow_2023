@@ -1,0 +1,40 @@
+References for the ESHG poster P25.029.A - presenter: Cappadona Claudio
+
+Unravelling the genetic component of COVID-19 severity in the Italian  	population by exome-wide analyses 
+
+
+1- Barek A, Aziz A, Islam M S. Impact of age, sex, comorbidities and clinical symptoms on the severity of COVID-19 cases: A meta-analysis with 55 studies and 10014 cases. Heliyon, Volume 6, Issue 12, 2020. doi:10.1016/j.heliyon.2020.e05684
+
+2- Severe Covid-19 GWAS Group. Genomewide Association Study of Severe Covid-19 with Respiratory Failure. N Engl J Med. 2020 Oct 15;383(16):1522-1534. doi: 10.1056/NEJMoa2020283.
+
+3- COVID-19 Host Genetics Initiative. Mapping the human genetic architecture of COVID-19. Nature 600, 472–477 (2021). https://doi.org/10.1038/s41586-021-03767-x
+
+4- GATK documentation: https://gatk.broadinstitute.org/hc/en-us/articles/360035535932-Germline-short-variant-discovery-SNPs-Indels-
+
+5- McLaren W, Gil L, Hunt SE, Riat HS, Ritchie GR, Thormann A, Flicek P, Cunningham F. The Ensembl Variant Effect Predictor. Genome Biology Jun 6;17(1):122. (2016) doi:10.1186/s13059-016-0974-4
+
+6- Van der Auwera GA & O'Connor BD. (2020). Genomics in the Cloud: Using Docker, GATK, and WDL in Terra (1st Edition). O'Reilly Media.
+
+7- Ioannidis NM, Rothstein JH, Pejaver V, et al. REVEL: An Ensemble Method for Predicting the Pathogenicity of Rare Missense Variants. Am J Hum Genet. 2016;99(4):877-885. doi:10.1016/j.ajhg.2016.08.016
+
+8- Guo MH, Plummer L, Chan Y-M, Hirschhorn JN, Lippincott MF. Burden testing of rare variants identified through exome sequencing using publicly available control data. American Journal of Human Genetics. 2018. 103(4):522-534.
+
+9- Lee S, Wu MC, Lin X. Optimal tests for rare variant effects in sequencing association studies. Biostatistics. 2012 Sep;13(4):762-75.
+
+10- EPACTS. https://github.com/statgen/EPACTS
+
+11- Baolin Wu, Weihua Guan and James S. Pankow. On efficient and accurate calculation of significance p-values for sequence kernel association testing of variant set. Ann Hum Genet. 2016 Mar; 80(2): 123–135. doi: 10.1111/ahg.12144
+
+12- Cirulli, E.T., White, S., Read, R.W. et al. Genome-wide rare variant analysis for thousands of phenotypes in over 70,000 exomes from two cohorts. Nat Commun 11, 542 (2020). https://doi.org/10.1038/s41467-020-14288-y
+
+13- GSEA Hallmarks. https://www.gsea-msigdb.org/gsea/msigdb/human/genesets.jsp?collection=H
+
+14- Loubna Akhabir and Andrew Sandford. Genetics of Interleukin 1 Receptor-Like 1 in Immune and Inflammatory Diseases. Current Genomics 2010 Dec; 11(8): 591–606. doi: 10.2174/138920210793360907
+
+15- M. Bello-Perez, I. Sola, B. Novoa, D. J. Klionsky and A. Falco. Canonical and Noncanonical Autophagy as Potential Targets for COVID-19. Cells. 2020 Jul; 9(7): 1619. doi: 10.3390/cells9071619
+
+16- Moustaqil et al. SARS-CoV-2 proteases PLpro and 3CLpro cleave IRF3 and critical modulators of inflammatory pathways (NLRP12 and TAB1): implications for disease presentation across species. Emerg Microbes Infect. 2021 Dec;10(1):178-195. doi: 10.1080/22221751.2020.1870414. 
+
+17- Codo et al. Elevated Glucose Levels Favor SARS-CoV-2 Infection and Monocyte Response through a HIF-1α/Glycolysis-Dependent Axis. Cell Metab. 2020 Sep 1;32(3):437-446.e5. doi: 10.1016/j.cmet.2020.07.007.
+
+18- Ardestani, A., Azizi, Z. Targeting glucose metabolism for treatment of COVID-19. Sig Transduct Target Ther 6, 112 (2021). https://doi.org/10.1038/s41392-021-00532-
